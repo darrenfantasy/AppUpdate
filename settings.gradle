@@ -1,0 +1,3 @@
+include ':update_sdk'
+include ':app'
+rootProject.name = "AppUpdate"
